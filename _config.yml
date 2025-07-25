@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "‪https://bsky.app/profile/realmps.bsky.social‬" 
+  bluesky          : "realmps.bsky.social"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/maurice-schumann-029848165/"
+  linkedin         : "maurice-schumann-029848165"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
