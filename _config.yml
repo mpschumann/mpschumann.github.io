@@ -22,7 +22,7 @@ repository               : "mpschumann/mpschumann.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG-9101.png"
+  avatar           : "bild.png"
   name             : "Maurice P. Schumann"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate"
