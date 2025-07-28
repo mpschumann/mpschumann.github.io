@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: default
 title: "Research"
-permalink: /research/
 author_profile: true
+permalink: /research/
 ---
 
 My research interests can be distinguished along two themes: 1. my dissertation focus internet usage and provision under illiberal governments, in the broader topic of comparative research of authoritarian regimes. 2. My other research focuses on dynamics of violent and non-violent intrastate conflict, in the broader topic of conflict studies.
