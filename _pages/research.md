@@ -5,10 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if page.author_profile %}
-  {% include author.html %}
-{% endif %}
-
 <style>
 .publication-entry {
   display: flex;
