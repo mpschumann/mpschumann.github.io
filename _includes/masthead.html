@@ -7,38 +7,16 @@
   <meta name="Generator" content="Cocoa HTML Writer">
   <meta name="CocoaVersion" content="2113.65">
   <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000; min-height: 14.0px}
-    span.s1 {font-kerning: none}
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
+    span.s1 {font-kerning: none; color: #000000}
+    span.s2 {font-kerning: none}
   </style>
 </head>
 <body>
-<p class="p1"><span class="s1">{% include base_path %}</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">{% comment %}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>If you’ve set in _config.yml:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>logo: "/assets/images/logo.png"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>then this will show that image; otherwise it just shows the title.</span></p>
-<p class="p1"><span class="s1">{% endcomment %}</span></p>
-<p class="p1"><span class="s1">{% if site.logo %}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;a class="masthead__logo" href="{{ "/" | relative_url }}"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;img</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>src="{{ site.logo | relative_url }}"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>alt="{{ site.title }}"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>style="height:2rem; vertical-align:middle;"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>/&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;/a&gt;</span></p>
-<p class="p1"><span class="s1">{% endif %}</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">{{ site.title }}</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">{% for link in site.data.navigation.main %}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% if link.url contains 'http' %}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% assign domain = "" %}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% else %}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% assign domain = base_path %}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% endif %}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;a href="{{ domain }}{{ link.url }}"&gt;{{ link.title }}&lt;/a&gt;</span></p>
-<p class="p1"><span class="s1">{% endfor %}</span></p>
+<p class="p1"><span class="s1">{</span><span class="s2">{% include base_path %}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s2">• {{ site.title }}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s2">• {% for link in site.data.navigation.main %} {% if link.url contains 'http' %} {% assign domain = '' %} {% else %} {% assign domain = base_path %} {% endif %}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s2">• {{ link.title }}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s2">• {% endfor %}</span></p>
 </body>
 </html>
