@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 --- 
 
-I am a Ph.D. candidate at [Hertie School's Centre for International Security](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/schumann). I study the intersection of communication technology, state repression, and political violence. My dissertation examines internet legislation in authoritarian regimes.
+I am a Ph.D. candidate at [Hertie School's Centre for International Security](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/schumann). I study the intersection of communication technology, state repression, and political violence. My dissertation examines internet legislation in authoritarian regimes. Please do not hesitate to reach out to me if you have any questions or would like to get in touch!
 
 # <i class="fas fa-book-open"></i> Publications
 - Schumann, M.P. (2025). [Legalizing control: the rise of restrictive internet regulation in sub-Saharan Africa](https://www.tandfonline.com/doi/full/10.1080/13510347.2025.2503370), *Democratization*, 1-26. 
