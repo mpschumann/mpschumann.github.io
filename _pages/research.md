@@ -16,7 +16,7 @@ author_profile: true
     line-height: 1.4;
   }
   .publication-entry .thumb {
-    flex: 0 0 120px;    /* thumbnail stays small */
+    flex: 0 0 120px;
     margin-left: 1rem;
   }
   .publication-entry .thumb img {
@@ -28,9 +28,7 @@ author_profile: true
   }
 </style>
 
-# My Research
-
-My interests… (your intro here)
+My research interests can be distinguished along two themes: …
 
 ## 1. Digital Authoritarianism
 
@@ -48,16 +46,14 @@ My dissertation examines…
   </div>
 
   <div class="thumb">
-    <a href="{{ site.baseurl }}/images/onepagers/Schumann-2025-1pager.pdf" download>
-      <img src="{{ site.baseurl }}/images/onepagers/Schumann-2025-1pager.png" alt="1‑Pager for Legalizing Control">
-    </a>
+    [![1‑Pager thumb]({{ site.baseurl }}/images/onepagers/Schumann-2025-1pager.png)]({{ site.baseurl }}/images/onepagers/Schumann-2025-1pager.pdf){: download}
   </div>
 
 </div>
 
 ## 2. Conflict Studies
 
-Here I explore…
+In this research field…
 
 ### Articles
 
@@ -69,9 +65,7 @@ Here I explore…
   </div>
 
   <div class="thumb">
-    <a href="{{ site.baseurl }}/images/onepagers/Bara-Schumann-2025-1pager.pdf" download>
-      <img src="{{ site.baseurl }}/images/onepagers/Bara-Schumann-2025-1pager.jpeg" alt="1‑Pager for Linking Violence">
-    </a>
+    [![1‑Pager thumb]({{ site.baseurl }}/images/onepagers/Bara-Schumann-2025-1pager.jpeg)]({{ site.baseurl }}/images/onepagers/Bara-Schumann-2025-1pager.pdf){: download}
   </div>
 
 </div>
