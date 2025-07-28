@@ -15,6 +15,6 @@ I am a Ph.D. candidate at [Hertie School's Centre for International Security](ht
 - Schumann, M. P., & Bara, C. (2023). [A New Era: Power in Partnership Peacekeeping](https://academic.oup.com/isq/article/67/3/sqad037/7198284), *International Studies Quarterly*, 67(3). 
 
 # <i class="fas fa-graduation-cap"></i> Education 
-- PhD Candidate in Governance, Hertie School (ongoing)
+- PhD in Governance, Hertie School (ongoing)
 - MSSc Peace and Conflict Studies, Uppsala Universitet (2021)
 - BA Politics and Public Administration, University of Konstanz (2019) 
