@@ -1,31 +1,35 @@
 ---
-layout: archive
+layout: default
 title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
+{% if page.author_profile %}
+  {% include author.html %}
+{% endif %}
+
 <style>
-  .publication-entry {
-    display: flex;
-    align-items: flex-start;
-    margin-bottom: 1.5rem;
-  }
-  .publication-entry .info {
-    flex: 1;
-    line-height: 1.4;
-  }
-  .publication-entry .thumb {
-    flex: 0 0 120px;
-    margin-left: 1rem;
-  }
-  .publication-entry .thumb img {
-    width: 100%;
-    height: auto;
-    display: block;
-    border-radius: 4px;
-    border: 1px solid #ddd;
-  }
+.publication-entry {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 1.5rem;
+}
+.publication-entry .info {
+  flex: 1;
+  line-height: 1.4;
+}
+.publication-entry .thumb {
+  flex: 0 0 120px;
+  margin-left: 1rem;
+}
+.publication-entry .thumb img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+}
 </style>
 
 My research interests can be distinguished along two themes: …
@@ -45,7 +49,7 @@ My dissertation examines…
 - [Interview: Radio Berlin (2025)](/media/interview123)
   </div>
 
-  <div class="thumb">
+  <div class="thumb" markdown="1">
     [![1‑Pager thumb]({{ site.baseurl }}/images/onepagers/Schumann-2025-1pager.png)]({{ site.baseurl }}/images/onepagers/Schumann-2025-1pager.pdf){: download}
   </div>
 
@@ -64,7 +68,7 @@ In this research field…
 - [R‑package: GitHub](https://github.com/username/rpackage)
   </div>
 
-  <div class="thumb">
+  <div class="thumb" markdown="1">
     [![1‑Pager thumb]({{ site.baseurl }}/images/onepagers/Bara-Schumann-2025-1pager.jpeg)]({{ site.baseurl }}/images/onepagers/Bara-Schumann-2025-1pager.pdf){: download}
   </div>
 
