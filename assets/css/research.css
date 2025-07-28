@@ -1,0 +1,28 @@
+/* assets/css/research.css */
+
+/* Flex container for each publication */
+.publication-entry {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 1.5rem;
+}
+
+/* Left info column */
+.publication-entry .info {
+  flex: 1;
+  line-height: 1.4;
+}
+
+/* Right thumbnail column, fixed width */
+.publication-entry .thumb {
+  flex: 0 0 120px;
+  margin-left: 1rem;
+}
+
+.publication-entry .thumb img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+}
