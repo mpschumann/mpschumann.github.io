@@ -1,12 +1,11 @@
 ---
 permalink: /
+title: "Hello there!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 --- 
-
-# Hello there!
 
 I am a Ph.D. candidate at [Hertie School's Centre for International Security](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/schumann). I study the intersection of communication technology, state repression, and political violence. My dissertation examines internet legislation in authoritarian regimes.
 
