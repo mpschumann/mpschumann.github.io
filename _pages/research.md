@@ -74,7 +74,6 @@ I am a comparative political scientist who works primarily with quantitative met
   </div>
 </div>
 
-
 ## Conflict Studies
 
 ### Articles 
@@ -115,3 +114,14 @@ I am a comparative political scientist who works primarily with quantitative met
 
 ### Work in Progress 
 
+<div class="publication-entry">
+  <div class="info">
+    Bara C. and Maurice P. Schumann. Into the Spotlight? Ceasefires and Civilian Targeting in Civil War (under review)
+  </div>
+</div>
+
+<div class="publication-entry">
+  <div class="info">
+    Dworschak C, Oswald C, Leis M, Frank H., and Maurice P. Schumann. Resistance in the Streets, Data in the Sheets: A conceptual and empirical appraisal of protest event data (manuscript in preparation)
+  </div>
+</div>
