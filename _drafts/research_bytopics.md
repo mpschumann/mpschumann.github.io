@@ -29,7 +29,9 @@ I am a comparative political scientist who works primarily with quantitative met
 2. The dynamics of violent and nonviolent intrastate conflict, within the broader context of conflict studies.
 
 
-## Peer-Reviewed Articles
+## Digital Authoritarianism
+
+### Articles
 
 <div class="publication-entry">
   <div class="info">
@@ -47,6 +49,34 @@ I am a comparative political scientist who works primarily with quantitative met
     <a href="/images/onepagers/Schumann-2025-1pager.pdf" target="_blank">View one-pager</a>
   </div>
 </div>
+
+### Book Chapters
+
+<div class="publication-entry">
+  <div class="info">
+    Gohdes A, Koh A, and Maurice P. Schumann. Forthcoming. Digital Authoritarianism. In: <em>De Gruyter Handbook of Political Control</em>, edited by Jennifer Earl and Jessica Mave Braithwaite, De Gruyter.
+  </div>
+</div>
+
+### Work in Progress 
+
+<div class="publication-entry">
+  <div class="info">
+    Schwarz F. and Maurice P. Schumann. Control or Commerce? Information Technology Diffusion &amp; the Changing Costs of Internet Shutdowns (manuscript in preparation). 
+    <ul>
+      <li>
+        Awarded the best paper award at the 
+        <a href="https://www.thehagueprogram.nl/news/photos-and-conference-report-2024-conference-on-international-cyber-security">
+          The Hague 2024 Conference on International Cyber Security
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+## Conflict Studies
+
+### Articles 
 
 <div class="publication-entry">
   <div class="info">
@@ -82,29 +112,7 @@ I am a comparative political scientist who works primarily with quantitative met
   </div>
 </div>
 
-## Book Chapters
-
-<div class="publication-entry">
-  <div class="info">
-    Gohdes A, Koh A, and Maurice P. Schumann. Forthcoming. Digital Authoritarianism. In: <em>De Gruyter Handbook of Political Control</em>, edited by Jennifer Earl and Jessica Mave Braithwaite, De Gruyter.
-  </div>
-</div>
-
-## Work in Progress 
-
-<div class="publication-entry">
-  <div class="info">
-    Schwarz F. and Maurice P. Schumann. Control or Commerce? Information Technology Diffusion &amp; the Changing Costs of Internet Shutdowns (manuscript in preparation). 
-    <ul>
-      <li>
-        Awarded the best paper award at the 
-        <a href="https://www.thehagueprogram.nl/news/photos-and-conference-report-2024-conference-on-international-cyber-security">
-          The Hague 2024 Conference on International Cyber Security
-        </a>
-      </li>
-    </ul>
-  </div>
-</div>
+### Work in Progress 
 
 <div class="publication-entry">
   <div class="info">
