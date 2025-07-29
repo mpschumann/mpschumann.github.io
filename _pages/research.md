@@ -33,8 +33,8 @@ I am a comparative political scientist who works primarily with quantitative met
 
 <div class="publication-entry">
   <div class="info">
-    Schumann, M.P. (2025). Legalizing Control: The Rise of Restrictive Internet Regulation. <em>Democratization</em>, 1–26.
-    doi:<a href="https://doi.org/10.1080/13510347.2025.2503370">10.1080/13510347.2025.2503370</a><br>
+    Schumann, M.P. (2025). Legalizing Control: The Rise of Restrictive Internet Regulation. <em>Democratization</em>, 1–26,
+    <a href="https://doi.org/10.1080/13510347.2025.2503370">DOI</a><br>
     <ul>
       <li><a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UNASYJ">Replication Material: Dataverse</a></li>
     </ul>
@@ -50,7 +50,7 @@ I am a comparative political scientist who works primarily with quantitative met
 
 <div class="publication-entry">
   <div class="info">
-    Bara C. and Maurice P. Schumann. 2025. Who, what, and when? Linking Violence to Civil Wars. <em>Research and Politics</em> 12 (1), doi:<a href="https://doi.org/10.1177/20531680251328885">https://doi.org/10.1177/20531680251328885</a>
+    Bara C. and Maurice P. Schumann. 2025. Who, what, and when? Linking Violence to Civil Wars. <em>Research and Politics</em> 12 (1), <a href="https://doi.org/10.1177/20531680251328885">DOI</a>
     <ul>
       <li>R-package: <a href="https://github.com/corinnebara/ucdplink">GitHub</a></li>
     </ul>
@@ -66,7 +66,7 @@ I am a comparative political scientist who works primarily with quantitative met
 
 <div class="publication-entry">
   <div class="info">
-    Schumann, Maurice P. and Corinne Bara. 2023. A New Era: Power in Partnership Peacekeeping. <em>International Studies Quarterly</em> 67 (3), doi:<a href="https://doi.org/10.1093/isq/sqad037">https://doi.org/10.1093/isq/sqad037</a>
+    Schumann, Maurice P. and Corinne Bara. 2023. A New Era: Power in Partnership Peacekeeping. <em>International Studies Quarterly</em> 67 (3), <a href="https://doi.org/10.1093/isq/sqad037">DOI</a>
     <ul>
       <li>Blog post: <a href="https://theglobalobservatory.org/2023/10/partnership-peacekeeping-works-what-does-this-mean-in-a-divided-world/">IPI Global Observatory (2023)</a> with Corinne Bara</li>
       <li>Blog post: <a href="https://policyblog.empowermentforpeace.org/2024/02/reversed-roles-partnership-peacekeeping/">CPD Policy Blog (2024)</a> with Evgenija Kroeker</li>
