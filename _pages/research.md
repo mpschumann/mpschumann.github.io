@@ -14,6 +14,7 @@ author_profile: true
   .publication-entry .info {
     flex: 1;
     line-height: 1.4;
+    max-width: 600px; /* add this line */
   }
   .publication-entry .thumb {
     flex: 0 0 150px;
