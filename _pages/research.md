@@ -11,11 +11,6 @@ author_profile: true
     align-items: flex-start;
     margin-bottom: 1.5rem;
   }
-  .publication-entry .info {
-    flex: 1;
-    line-height: 1.4;
-    max-width: 400px; /* add this line */
-  }
   .publication-entry .thumb {
     flex: 0 0 150px;
     margin-left: 1rem;
