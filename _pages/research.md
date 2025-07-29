@@ -35,10 +35,10 @@ I am a comparative political scientist who works primarily with quantitative met
 
 <div class="publication-entry">
   <div class="info">
-    Schumann, M.P. (2025). “Legalizing Control: The Rise of Restrictive Internet Regulation.” <em>Democratization</em>, 1–26.
+    Schumann, M.P. (2025). Legalizing Control: The Rise of Restrictive Internet Regulation. <em>Democratization</em>, 1–26.
     doi:<a href="https://doi.org/10.1080/13510347.2025.2503370">10.1080/13510347.2025.2503370</a><br>
     <ul>
-      <li><a href="https://dataverse.harvard.edu/">Replication Material: Dataverse</a></li>
+      <li><a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UNASYJ">Replication Material: Dataverse</a></li>
     </ul>
   </div>
   <div class="thumb">
@@ -46,7 +46,7 @@ I am a comparative political scientist who works primarily with quantitative met
       <img src="/images/onepagers/Schumann-2025-1pager.png" alt="1-Pager thumbnail" />
     </a>
     <br>
-    <a href="/images/onepagers/Schumann-2025-1pager.pdf" target="_blank">View OnePager</a>
+    <a href="/images/onepagers/Schumann-2025-1pager.pdf" target="_blank">View one-pager</a>
   </div>
 </div>
 
@@ -54,7 +54,7 @@ I am a comparative political scientist who works primarily with quantitative met
 
 <div class="publication-entry">
   <div class="info">
-    Gohdes A, Koh A, and Maurice P. Schumann. Forthcoming. "Digital Authoritarianism." In: <em>De Gruyter Handbook of Political Control</em>, edited by Jennifer Earl and Jessica Mave Braithwaite, De Gruyter.
+    Gohdes A, Koh A, and Maurice P. Schumann. Forthcoming. Digital Authoritarianism. In: <em>De Gruyter Handbook of Political Control</em>, edited by Jennifer Earl and Jessica Mave Braithwaite, De Gruyter.
   </div>
 </div>
 
@@ -62,7 +62,7 @@ I am a comparative political scientist who works primarily with quantitative met
 
 <div class="publication-entry">
   <div class="info">
-    Schwarz F. and Maurice P. Schumann. "Control or Commerce? Information Technology Diffusion &amp; the Changing Costs of Internet Shutdowns." (manuscript in preparation). 
+    Schwarz F. and Maurice P. Schumann. Control or Commerce? Information Technology Diffusion &amp; the Changing Costs of Internet Shutdowns (manuscript in preparation). 
     <ul>
       <li>
         Awarded the best paper award at the 
@@ -90,7 +90,7 @@ I am a comparative political scientist who works primarily with quantitative met
       <img src="/images/onepagers/Bara-Schumann-2025-1pager.jpeg" alt="1-Pager thumbnail" />
     </a>
     <br>
-    <a href="/images/onepagers/Bara-Schumann-2025-1pager.pdf" target="_blank">View OnePager</a>
+    <a href="/images/onepagers/Bara-Schumann-2025-1pager.pdf" target="_blank">View one-pager</a>
   </div>
 </div>
 
@@ -108,7 +108,7 @@ I am a comparative political scientist who works primarily with quantitative met
       <img src="/images/onepagers/Schumann-Bara-2023-1pager.png" alt="1-Pager thumbnail" />
     </a>
     <br>
-    <a href="/images/onepagers/Schumann-Bara-2023-1pager.pdf" target="_blank">View OnePager</a>
+    <a href="/images/onepagers/Schumann-Bara-2023-1pager.pdf" target="_blank">View one-pager</a>
   </div>
 </div>
 
@@ -116,12 +116,12 @@ I am a comparative political scientist who works primarily with quantitative met
 
 <div class="publication-entry">
   <div class="info">
-    Bara C. and Maurice P. Schumann. Into the Spotlight? Ceasefires and Civilian Targeting in Civil War (under review)
+    Bara C. and Maurice P. Schumann. Into the Spotlight? Ceasefires and Civilian Targeting in Civil War (under review).
   </div>
 </div>
 
 <div class="publication-entry">
   <div class="info">
-    Dworschak C, Oswald C, Leis M, Frank H., and Maurice P. Schumann. Resistance in the Streets, Data in the Sheets: A conceptual and empirical appraisal of protest event data (manuscript in preparation)
+    Dworschak C, Oswald C, Leis M, Frank H., and Maurice P. Schumann. Resistance in the Streets, Data in the Sheets: A conceptual and empirical appraisal of protest event data (manuscript in preparation).
   </div>
 </div>
