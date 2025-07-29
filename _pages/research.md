@@ -14,7 +14,7 @@ author_profile: true
   .publication-entry .info {
     flex: 1;
     line-height: 1.4;
-    max-width: 600px; /* add this line */
+    max-width: 550px; /* add this line */
   }
   .publication-entry .thumb {
     flex: 0 0 150px;
@@ -64,6 +64,21 @@ I am a comparative political scientist who works primarily with quantitative met
 </div>
 
 ### Work in Progress 
+
+<div class="publication-entry">
+  <div class="info">
+    Schwarz F. and Maurice P. Schumann. "Control or Commerce? Information Technology Diffusion &amp; the Changing Costs of Internet Shutdowns." (manuscript in preparation). 
+    <ul>
+      <li>
+        Awarded the best paper award at the 
+        <a href="https://www.thehagueprogram.nl/news/photos-and-conference-report-2024-conference-on-international-cyber-security">
+          The Hague 2024 Conference on International Cyber Security
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+
 
 ## Conflict Studies
 
