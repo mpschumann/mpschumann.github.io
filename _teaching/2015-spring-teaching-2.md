@@ -1,14 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "Lead TA: Statistics I: Inference and Regression"
 collection: teaching
-type: "Workshop"
+type: "Labs "
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "Hertie School"
 date: 2015-01-01
-location: "City, Country"
+location: "Berlin"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching 2 weekly labs (∼20 students each), examination, coordination of TA activities, and
+supporting lecturer.
 
 Heading 1
 ======
