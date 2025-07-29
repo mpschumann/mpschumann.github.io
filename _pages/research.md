@@ -28,11 +28,12 @@ author_profile: true
   }
 </style>
 
-My research interests can be distinguished along two themes: …
+I am a comparative political scientist who works primarily with quantitative methods. My research is roughly organized around two themes:
+1. Digital authoritarianism, situated within the broader field of authoritarian politics. My ongoing dissertation investigates the legal repression of digital rights in Africa.
+2. The dynamics of violent and nonviolent intrastate conflict, within the broader context of conflict studies.
+
 
 ## Digital Authoritarianism
-
-My dissertation examines…
 
 ### Articles
 
@@ -53,6 +54,15 @@ My dissertation examines…
   </div>
 </div>
 
+### Book Chapters
+
+
+ 
+
+
 ## Conflict Studies
 
-...
+### Articles 
+
+### Work in Progress 
+
