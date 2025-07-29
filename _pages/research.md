@@ -56,9 +56,13 @@ I am a comparative political scientist who works primarily with quantitative met
 
 ### Book Chapters
 
+<div class="publication-entry">
+  <div class="info">
+    Gohdes A, Koh A, and Maurice P. Schumann. Forthcoming. "Digital Authoritarianism." In: <em>De Gruyter Handbook of Political Control</em>, edited by Jennifer Earl and Jessica Mave Braithwaite, De Gruyter.
+  </div>
+</div>
 
- 
-
+### Work in Progress 
 
 ## Conflict Studies
 
