@@ -14,7 +14,7 @@ author_profile: true
   .publication-entry .info {
     flex: 1;
     line-height: 1.4;
-    max-width: 550px; /* add this line */
+    max-width: 400px; /* add this line */
   }
   .publication-entry .thumb {
     flex: 0 0 150px;
@@ -83,6 +83,40 @@ I am a comparative political scientist who works primarily with quantitative met
 ## Conflict Studies
 
 ### Articles 
+
+<div class="publication-entry">
+  <div class="info">
+    Bara C. and Maurice P. Schumann. 2025. Who, what, and when? Linking Violence to Civil Wars. <em>Research and Politics</em> 12 (1), doi:<a href="https://doi.org/10.1177/20531680251328885">https://doi.org/10.1177/20531680251328885</a>
+    <ul>
+      <li>R-package: <a href="https://github.com/corinnebara/ucdplink">GitHub</a></li>
+    </ul>
+  </div>
+  <div class="thumb">
+    <a href="/images/onepagers/Bara-Schumann-2025-1pager.jpeg" target="_blank">
+      <img src="/images/onepagers/Bara-Schumann-2025-1pager.jpeg" alt="1-Pager thumbnail" />
+    </a>
+    <br>
+    <a href="/images/onepagers/Bara-Schumann-2025-1pager.pdf" target="_blank">View OnePager</a>
+  </div>
+</div>
+
+<div class="publication-entry">
+  <div class="info">
+    Schumann, Maurice P. and Corinne Bara. 2023. A New Era: Power in Partnership Peacekeeping. <em>International Studies Quarterly</em> 67 (3), doi:<a href="https://doi.org/10.1093/isq/sqad037">https://doi.org/10.1093/isq/sqad037</a>
+    <ul>
+      <li>Blog post: <a href="https://theglobalobservatory.org/2023/10/partnership-peacekeeping-works-what-does-this-mean-in-a-divided-world/">IPI Global Observatory (2023)</a> with Corinne Bara</li>
+      <li>Blog post: <a href="https://policyblog.empowermentforpeace.org/2024/02/reversed-roles-partnership-peacekeeping/">CPD Policy Blog (2024)</a> with Evgenija Kroeker</li>
+      <li>Media: <a href="https://www.horizonte-magazin.ch/2024/12/05/harmoniesuche-in-variationen/">Horizonte: Das Schweizer Forschungsmagazin (2024)</a></li>
+    </ul>
+  </div>
+  <div class="thumb">
+    <a href="/images/onepagers/Schumann-Bara-2023-1pager.png" target="_blank">
+      <img src="/images/onepagers/Schumann-Bara-2023-1pager.png" alt="1-Pager thumbnail" />
+    </a>
+    <br>
+    <a href="/images/onepagers/Schumann-Bara-2023-1pager.pdf" target="_blank">View OnePager</a>
+  </div>
+</div>
 
 ### Work in Progress 
 
