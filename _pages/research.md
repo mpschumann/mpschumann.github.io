@@ -53,7 +53,7 @@ I am a comparative political scientist who works primarily with quantitative met
     Bara C. and Maurice P. Schumann. 2025. Who, what, and when? Linking Violence to Civil Wars. <em>Research and Politics</em> 12 (1), <a href="https://doi.org/10.1177/20531680251328885">DOI</a>
     <ul>
       <li>
-  R package **ucdplink**:
+  R package: ucdplink
   <a href="https://www.repostatus.org/#active" target="_blank">
     <img src="https://img.shields.io/badge/repo%20status-Active-brightgreen" alt="repo status: Active" />
   </a>
@@ -64,6 +64,9 @@ I am a comparative political scientist who works primarily with quantitative met
     <img src="https://img.shields.io/badge/available_on-GitHub-blue" alt="available on GitHub" />
   </a>
 </li>
+<li>
+    ucdplink facilitates linking data on violence events from the UCDP GED to armed conflicts listed in the UCDP ACD.
+  </li>
     </ul>
   </div>
   <div class="thumb">
