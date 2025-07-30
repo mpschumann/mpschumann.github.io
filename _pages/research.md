@@ -53,16 +53,17 @@ I am a comparative political scientist who works primarily with quantitative met
     Bara C. and Maurice P. Schumann. 2025. Who, what, and when? Linking Violence to Civil Wars. <em>Research and Politics</em> 12 (1), <a href="https://doi.org/10.1177/20531680251328885">DOI</a>
     <ul>
       <li>
-        R package ucdplink: 
-        <a href="https://github.com/corinnebara/ucdplink">GitHub</a>
-        <a href="https://github.com/corinnebara/ucdplink">
-          <img src="https://img.shields.io/badge/repo%20status-Active-brightgreen" alt="repo status: Active" />
-        </a>
-        <img src="https://img.shields.io/badge/lifecycle-experimental-orange" alt="lifecycle: experimental" />
-        <a href="https://github.com/corinnebara/ucdplink">
-          <img src="https://img.shields.io/badge/available_on-GitHub-blue" alt="available on GitHub" />
-        </a>
-      </li>
+  R package **ucdplink**:
+  <a href="https://www.repostatus.org/#active" target="_blank">
+    <img src="https://img.shields.io/badge/repo%20status-Active-brightgreen" alt="repo status: Active" />
+  </a>
+  <a href="https://lifecycle.r-lib.org/articles/stages.html#stable/" target="_blank">
+    <img src="https://img.shields.io/badge/lifecycle-experimental-orange" alt="lifecycle: experimental" />
+  </a>
+  <a href="https://github.com/corinnebara/ucdplink" target="_blank">
+    <img src="https://img.shields.io/badge/available_on-GitHub-blue" alt="available on GitHub" />
+  </a>
+</li>
     </ul>
   </div>
   <div class="thumb">
