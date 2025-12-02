@@ -16,11 +16,16 @@ author_profile: true
     margin-left: 1rem;
   }
   .publication-entry .thumb img {
-    width: 150px; /* Slightly larger */
+    width: 150px;
     height: auto;
     display: block;
     border-radius: 4px;
     border: 1px solid #ddd;
+  }
+  .onepager-icon {
+    margin-right: 0.25rem;
+    font-size: 1.1em;
+    vertical-align: middle;
   }
 </style>
 
@@ -44,9 +49,8 @@ I am a comparative political scientist who works primarily with quantitative met
       <img src="/images/onepagers/Schumann-2025-1pager.png" alt="1-Pager thumbnail" />
     </a>
     <br>
-    <a href="/images/onepagers/Schumann-2025-1pager.pdf" target="_blank" class="onepager-link">
-  <span aria-hidden="true">⬇︎</span> one-pager
-</a>
+    <span class="onepager-icon" aria-hidden="true">&#11015;</span>
+    <a href="/images/onepagers/Schumann-2025-1pager.pdf" target="_blank">one-pager</a>
   </div>
 </div>
 
@@ -55,20 +59,20 @@ I am a comparative political scientist who works primarily with quantitative met
     Bara C. and Maurice P. Schumann. 2025. Who, what, and where? Linking Violence to Civil Wars. <em>Research and Politics</em> 12 (1), <a href="https://doi.org/10.1177/20531680251328885">DOI</a>
     <ul>
       <li>
-  R package: ucdplink
-  <a href="https://www.repostatus.org/#active" target="_blank">
-    <img src="https://img.shields.io/badge/repo%20status-Active-brightgreen" alt="repo status: Active" />
-  </a>
-  <a href="https://lifecycle.r-lib.org/articles/stages.html#stable/" target="_blank">
-    <img src="https://img.shields.io/badge/lifecycle-experimental-orange" alt="lifecycle: experimental" />
-  </a>
-  <a href="https://github.com/corinnebara/ucdplink" target="_blank">
-    <img src="https://img.shields.io/badge/available_on-GitHub-blue" alt="available on GitHub" />
-  </a>
-</li>
-<li>
-    ucdplink facilitates linking data on violence events from the UCDP GED to armed conflicts listed in the UCDP ACD.
-  </li>
+        R package: ucdplink
+        <a href="https://www.repostatus.org/#active" target="_blank">
+          <img src="https://img.shields.io/badge/repo%20status-Active-brightgreen" alt="repo status: Active" />
+        </a>
+        <a href="https://lifecycle.r-lib.org/articles/stages.html#stable/" target="_blank">
+          <img src="https://img.shields.io/badge/lifecycle-experimental-orange" alt="lifecycle: experimental" />
+        </a>
+        <a href="https://github.com/corinnebara/ucdplink" target="_blank">
+          <img src="https://img.shields.io/badge/available_on-GitHub-blue" alt="available on GitHub" />
+        </a>
+      </li>
+      <li>
+        ucdplink facilitates linking data on violent events from the UCDP GED to armed conflicts listed in the UCDP ACD.
+      </li>
     </ul>
   </div>
   <div class="thumb">
@@ -76,7 +80,8 @@ I am a comparative political scientist who works primarily with quantitative met
       <img src="/images/onepagers/Bara-Schumann-2025-1pager.jpeg" alt="1-Pager thumbnail" />
     </a>
     <br>
-    <a href="/images/onepagers/Bara-Schumann-2025-1pager.pdf" target="_blank">Download one-pager</a>
+    <span class="onepager-icon" aria-hidden="true">&#11015;</span>
+    <a href="/images/onepagers/Bara-Schumann-2025-1pager.pdf" target="_blank">one-pager</a>
   </div>
 </div>
 
@@ -94,7 +99,8 @@ I am a comparative political scientist who works primarily with quantitative met
       <img src="/images/onepagers/Schumann-Bara-2023-1pager.png" alt="1-Pager thumbnail" />
     </a>
     <br>
-    <a href="/images/onepagers/Schumann-Bara-2023-1pager.pdf" target="_blank">Download one-pager</a>
+    <span class="onepager-icon" aria-hidden="true">&#11015;</span>
+    <a href="/images/onepagers/Schumann-Bara-2023-1pager.pdf" target="_blank">one-pager</a>
   </div>
 </div>
 
@@ -110,7 +116,8 @@ I am a comparative political scientist who works primarily with quantitative met
       <img src="/images/onepagers/Gohdes,Koh,Schumann-2025-1pager_20251201v1.jpeg" alt="1-Pager thumbnail" />
     </a>
     <br>
-    <a href="/images/onepagers/Gohdes,Koh,Schumann-2025-1pager_20251201v1.pdf" target="_blank">Download one-pager</a>
+    <span class="onepager-icon" aria-hidden="true">&#11015;</span>
+    <a href="/images/onepagers/Gohdes,Koh,Schumann-2025-1pager_20251201v1.pdf" target="_blank">one-pager</a>
   </div>
 </div>
 
