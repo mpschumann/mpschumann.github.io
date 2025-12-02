@@ -49,7 +49,9 @@ I am a comparative political scientist who works primarily with quantitative met
       <img src="/images/onepagers/Schumann-2025-1pager.png" alt="1-Pager thumbnail" />
     </a>
     <br>
-    <span class="onepager-icon" aria-hidden="true">&#10579;</span>
+    <span class="onepager-icon" aria-hidden="true">
+      <i class="fas fa-download"></i>
+    </span>
     <a href="/images/onepagers/Schumann-2025-1pager.pdf" target="_blank">one-pager</a>
   </div>
 </div>
@@ -80,7 +82,9 @@ I am a comparative political scientist who works primarily with quantitative met
       <img src="/images/onepagers/Bara-Schumann-2025-1pager.jpeg" alt="1-Pager thumbnail" />
     </a>
     <br>
-    <span class="onepager-icon" aria-hidden="true">&#10579;</span>
+    <span class="onepager-icon" aria-hidden="true">
+      <i class="fas fa-download"></i>
+    </span>
     <a href="/images/onepagers/Bara-Schumann-2025-1pager.pdf" target="_blank">one-pager</a>
   </div>
 </div>
@@ -99,10 +103,13 @@ I am a comparative political scientist who works primarily with quantitative met
       <img src="/images/onepagers/Schumann-Bara-2023-1pager.png" alt="1-Pager thumbnail" />
     </a>
     <br>
-    <span class="onepager-icon" aria-hidden="true">&#10579;</span>
+    <span class="onepager-icon" aria-hidden="true">
+      <i class="fas fa-download"></i>
+    </span>
     <a href="/images/onepagers/Schumann-Bara-2023-1pager.pdf" target="_blank">one-pager</a>
   </div>
 </div>
+
 
 ## Book Chapters
 
@@ -116,7 +123,9 @@ I am a comparative political scientist who works primarily with quantitative met
       <img src="/images/onepagers/Gohdes,Koh,Schumann-2025-1pager_20251201v1.jpeg" alt="1-Pager thumbnail" />
     </a>
     <br>
-    <span class="onepager-icon" aria-hidden="true">&#10579;</span>
+    <span class="onepager-icon" aria-hidden="true">
+      <i class="fas fa-download"></i>
+    </span>
     <a href="/images/onepagers/Gohdes,Koh,Schumann-2025-1pager_20251201v1.pdf" target="_blank">one-pager</a>
   </div>
 </div>
