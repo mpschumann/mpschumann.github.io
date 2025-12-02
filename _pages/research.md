@@ -100,11 +100,11 @@ I am a comparative political scientist who works primarily with quantitative met
 
 <div class="publication-entry">
   <div class="info">
-    Gohdes A, Koh A, and Maurice P. Schumann. 2026. Digital Authoritarianism. In: <em>De Gruyter Handbook of Political Control</em>, edited by Jennifer Earl and Jessica Mave Braithwaite, De Gruyter, <a href="https://www.degruyterbrill.com/document/doi/10.1515/9783111298559-005/html">DOI</a> 
-    </ul>
+    Gohdes A, Koh A, and Maurice P. Schumann. 2026. Digital Authoritarianism. In <em>De Gruyter Handbook of Political Control</em>, edited by Jennifer Earl and Jessica Mave Braithwaite. De Gruyter. 
+    <a href="https://www.degruyterbrill.com/document/doi/10.1515/9783111298559-005/html">DOI</a>
   </div>
   <div class="thumb">
-    <a href="/images/onepagers/Schumann-Bara-2023-1pager.png" target="_blank">
+    <a href="/images/onepagers/Gohdes,Koh,Schumann-2025-1pager_20251201v1.jpeg" target="_blank">
       <img src="/images/onepagers/Gohdes,Koh,Schumann-2025-1pager_20251201v1.jpeg" alt="1-Pager thumbnail" />
     </a>
     <br>
