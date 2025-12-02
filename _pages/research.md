@@ -44,7 +44,9 @@ I am a comparative political scientist who works primarily with quantitative met
       <img src="/images/onepagers/Schumann-2025-1pager.png" alt="1-Pager thumbnail" />
     </a>
     <br>
-    <a href="/images/onepagers/Schumann-2025-1pager.pdf" target="_blank">Download one-pager</a>
+    <a href="/images/onepagers/Schumann-2025-1pager.pdf" target="_blank" class="onepager-link">
+  <span aria-hidden="true">⬇︎</span> one-pager
+</a>
   </div>
 </div>
 
