@@ -44,13 +44,13 @@ I am a comparative political scientist who works primarily with quantitative met
       <img src="/images/onepagers/Schumann-2025-1pager.png" alt="1-Pager thumbnail" />
     </a>
     <br>
-    <a href="/images/onepagers/Schumann-2025-1pager.pdf" target="_blank">View one-pager</a>
+    <a href="/images/onepagers/Schumann-2025-1pager.pdf" target="_blank">Download one-pager</a>
   </div>
 </div>
 
 <div class="publication-entry">
   <div class="info">
-    Bara C. and Maurice P. Schumann. 2025. Who, what, and when? Linking Violence to Civil Wars. <em>Research and Politics</em> 12 (1), <a href="https://doi.org/10.1177/20531680251328885">DOI</a>
+    Bara C. and Maurice P. Schumann. 2025. Who, what, and where? Linking Violence to Civil Wars. <em>Research and Politics</em> 12 (1), <a href="https://doi.org/10.1177/20531680251328885">DOI</a>
     <ul>
       <li>
   R package: ucdplink
@@ -74,7 +74,7 @@ I am a comparative political scientist who works primarily with quantitative met
       <img src="/images/onepagers/Bara-Schumann-2025-1pager.jpeg" alt="1-Pager thumbnail" />
     </a>
     <br>
-    <a href="/images/onepagers/Bara-Schumann-2025-1pager.pdf" target="_blank">View one-pager</a>
+    <a href="/images/onepagers/Bara-Schumann-2025-1pager.pdf" target="_blank">Download one-pager</a>
   </div>
 </div>
 
@@ -92,7 +92,7 @@ I am a comparative political scientist who works primarily with quantitative met
       <img src="/images/onepagers/Schumann-Bara-2023-1pager.png" alt="1-Pager thumbnail" />
     </a>
     <br>
-    <a href="/images/onepagers/Schumann-Bara-2023-1pager.pdf" target="_blank">View one-pager</a>
+    <a href="/images/onepagers/Schumann-Bara-2023-1pager.pdf" target="_blank">Download one-pager</a>
   </div>
 </div>
 
@@ -100,7 +100,15 @@ I am a comparative political scientist who works primarily with quantitative met
 
 <div class="publication-entry">
   <div class="info">
-    Gohdes A, Koh A, and Maurice P. Schumann. Forthcoming. Digital Authoritarianism. In: <em>De Gruyter Handbook of Political Control</em>, edited by Jennifer Earl and Jessica Mave Braithwaite, De Gruyter.
+    Gohdes A, Koh A, and Maurice P. Schumann. 2026. Digital Authoritarianism. In: <em>De Gruyter Handbook of Political Control</em>, edited by Jennifer Earl and Jessica Mave Braithwaite, De Gruyter, <a href="https://www.degruyterbrill.com/document/doi/10.1515/9783111298559-005/html">DOI</a> 
+    </ul>
+  </div>
+  <div class="thumb">
+    <a href="/images/onepagers/Schumann-Bara-2023-1pager.png" target="_blank">
+      <img src="/images/onepagers/Gohdes,Koh,Schumann-2025-1pager_20251201v1.jpeg" alt="1-Pager thumbnail" />
+    </a>
+    <br>
+    <a href="/images/onepagers/Gohdes,Koh,Schumann-2025-1pager_20251201v1.pdf" target="_blank">Download one-pager</a>
   </div>
 </div>
 
@@ -117,6 +125,12 @@ I am a comparative political scientist who works primarily with quantitative met
         </a>
       </li>
     </ul>
+  </div>
+</div>
+
+<div class="publication-entry">
+  <div class="info">
+    Maurice P. Schumann. In the Name of Cyber Security: Internet Regulation and Journalist Repression in Africa (manuscript in preparation).
   </div>
 </div>
 
