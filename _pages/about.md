@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research on digital authoritarianism, internet regulation, cyber security, and political violence."
+title: ""
 description: Research on digital authoritarianism, internet regulation, cyber security, and political violence.
 author_profile: true
 redirect_from: 
