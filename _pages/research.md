@@ -30,8 +30,8 @@ author_profile: true
 </style>
 
 I am a comparative political scientist who works primarily with quantitative methods. My research is roughly organized around two themes:
-1. Digital authoritarianism, situated within the broader field of authoritarian politics. My ongoing dissertation investigates the legal repression of digital rights in Africa.
-2. The dynamics of violent and nonviolent intrastate conflict, within the broader context of conflict studies.
+1. Cyber security in autocratic states, at the intersection of authoritarian politics and international cyber security. My ongoing dissertation investigates the legal repression of digital rights in Africa.
+2. The dynamics of violent and nonviolent conflict, within the broader field of conflict studies.
 
 
 ## Peer-Reviewed Articles

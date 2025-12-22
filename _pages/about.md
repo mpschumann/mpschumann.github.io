@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 --- 
 
-Hello there, I am a Ph.D. candidate at [Hertie School's Centre for International Security](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/schumann). I study the intersection of communication technology, state repression, and political violence. My dissertation examines internet legislation in authoritarian regimes. Please do not hesitate to reach out to me if you have any questions or would like to get in touch!
+Hello there, I am a Ph.D. candidate at [Hertie School's Centre for International Security](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/schumann). I study the intersection of communication technology, state repression, and political violence. My dissertation examines cyber legislation in authoritarian regimes. Please do not hesitate to reach out to me if you have any questions or would like to get in touch!
 
 # <i class="fas fa-book-open"></i> Publications
 - Gohdes, Anita R., Koh, Allison W. & Schumann, Maurice P. (2026). [Digital Authoritarianism](https://www.degruyterbrill.com/document/doi/10.1515/9783111298559-005/html), in *Handbook of Political Control*, eds. Jennifer Earl and Jessica Maves Braithwaite, De Gruyter, pp. 75-89. 
