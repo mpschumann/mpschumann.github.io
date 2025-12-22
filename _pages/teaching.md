@@ -8,6 +8,10 @@ author_profile: true
 Thus far, I have taught labs related to statistics and political institutions. I am excited to expand my teaching experience in the future! 
 
 ### Hertie School
+Lead Teaching Assistant, MA lecture **Statistics II: Causal Inference** (2026)
+- Leading three weekly labs (∼20 students each).
+- Coordinating TA activities, administrating examination, and supporting course content development. 
+
 Lead Teaching Assistant, MA lecture **Statistics I: Inference and Regression** (2024, 2025)
 - Led two weekly labs (∼20 students each).
 - Coordinated TA activities; responsible for exam administration and grading.
