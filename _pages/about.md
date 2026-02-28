@@ -20,3 +20,9 @@ Hello there, I am a Ph.D. candidate at [Hertie School's Centre for International
 - PhD in Governance, Hertie School (ongoing)
 - MSSc Peace and Conflict Studies, Uppsala Universitet (2021)
 - BA Politics and Public Administration, University of Konstanz (2019) 
+
+<i class="fa fa-id-card" aria-hidden="true"></i> Namesakes
+
+- Si vous cherchez Maurice Schumann, ministre français des Affaires étrangères de 1969 à 1973, je vous invite à consulter [ici](https://de.wikipedia.org/wiki/Maurice_Schumann).
+- If you are looking for the political philosopher Maurice Schuhmann, please take a look [here](https://www.maurice-schuhmann.de).
+- Falls Sie einen Maurice Schumann suchen, der Ihnen den nächsten sportlichen Schritt durch physiotherapeutische Betreuung ermöglicht, schauen Sie doch mal [hier](https://smido.de/team-2).
