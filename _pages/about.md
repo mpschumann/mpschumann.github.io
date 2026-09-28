@@ -10,9 +10,9 @@ redirect_from:
 
 Hello there, I am a postdoctoral researcher at the [Hertie School](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/schumann). My research examines how governments navigate political conflict across digital and offline environments, from domestic contestation and civil war to international struggles over narratives and influence.
 
-My postdoctoral research is part of the project *Narrative, Power, and Control (NPC): The Authoritarian Playbook in the Global Video Games Industry*, where we investigate authoritarian influence in the global video games industry by examining industry ownership structures, changes in game content, and how gamers and consumers perceive and respond to authoritarian influence. The project is part of the Cluster of Excellence “Contestations of the Liberal Script” (SCRIPTS) and is funded by the German Research Foundation (DFG).
+My postdoctoral research is part of the project *Narrative, Power, and Control (NPC): The Authoritarian Playbook in the Global Video Games Industry*, where we investigate how authoritarian ownership changes games and how consumers perceive and respond to this influence. The project is part of the Cluster of Excellence “Contestations of the Liberal Script” (SCRIPTS) and is funded by the DFG.
 
-In my dissertation, I studied the conditions under which governments institutionalize repressive internet controls through law and the consequences of doing so. I argue that governments that are neither established Western democracies nor major authoritarian powers are increasingly building durable systems of internet control by embedding restrictive instruments in law. This institutionalization allows governments to adapt existing tools to changing conditions and deploy them more routinely and frequently.
+In my dissertation, I studied how governments build durable systems of internet control by embedding restrictive instruments in law. This institutionalization allows governments to adapt control tools to changing conditions and deploy them more routinely.
 
 # <i class="fas fa-book-open"></i> Publications
 - Bara, C., & Schumann, M. P. (2026). [Ceasefires and civilian targeting in civil war](https://academic.oup.com/jpr/advance-article/doi/10.1093/jopres/xjag068/8780235). *Journal of Peace Research*. Advance online publication.
