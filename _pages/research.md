@@ -38,7 +38,17 @@ I am a comparative political scientist who works primarily with quantitative met
 
 <div class="publication-entry">
   <div class="info">
-    Schumann, M.P. (2025). Legalizing Control: The Rise of Restrictive Internet Regulation. <em>Democratization</em>, 1–26,
+    Bara, C., &amp; Schumann, M. P. (2026). Ceasefires and civilian targeting in civil war. <em>Journal of Peace Research</em>. Advance online publication,
+    <a href="https://academic.oup.com/jpr/advance-article/doi/10.1093/jopres/xjag068/8780235" target="_blank">Article</a><br>
+  </div>
+
+  <div class="thumb">
+  </div>
+</div>
+
+<div class="publication-entry">
+  <div class="info">
+    Schumann, M. P. (2026). Legalizing control: The rise of restrictive internet regulation in sub-Saharan Africa. <em>Democratization</em>, 33(1), 137–162,
     <a href="https://doi.org/10.1080/13510347.2025.2503370">DOI</a><br>
     <ul>
       <li><a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UNASYJ">Replication Material: Dataverse</a></li>
@@ -58,7 +68,8 @@ I am a comparative political scientist who works primarily with quantitative met
 
 <div class="publication-entry">
   <div class="info">
-    Bara C. and Maurice P. Schumann. 2025. Who, what, and where? Linking Violence to Civil Wars. <em>Research and Politics</em> 12 (1), <a href="https://doi.org/10.1177/20531680251328885">DOI</a>
+    Bara, C., &amp; Schumann, M. P. (2025). Who, what, and where? Linking violence to civil wars. <em>Research &amp; Politics</em>, 12(1), 1–9,
+    <a href="https://doi.org/10.1177/20531680251328885">DOI</a>
     <ul>
       <li>
         R package: ucdplink
@@ -91,7 +102,8 @@ I am a comparative political scientist who works primarily with quantitative met
 
 <div class="publication-entry">
   <div class="info">
-    Schumann, Maurice P. and Corinne Bara. 2023. A New Era: Power in Partnership Peacekeeping. <em>International Studies Quarterly</em> 67 (3), <a href="https://doi.org/10.1093/isq/sqad037">DOI</a>
+    Schumann, M. P., &amp; Bara, C. (2023). A new era: Power in partnership peacekeeping. <em>International Studies Quarterly</em>, 67(3), sqad037,
+    <a href="https://doi.org/10.1093/isq/sqad037">DOI</a>
     <ul>
       <li>Blog post: <a href="https://theglobalobservatory.org/2023/10/partnership-peacekeeping-works-what-does-this-mean-in-a-divided-world/">IPI Global Observatory (2023)</a> with Corinne Bara</li>
       <li>Blog post: <a href="https://policyblog.empowermentforpeace.org/2024/02/reversed-roles-partnership-peacekeeping/">CPD Policy Blog (2024)</a> with Evgenija Kroeker</li>
