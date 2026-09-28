@@ -32,7 +32,7 @@ author_profile: true
 I am a comparative political scientist who primarily works with quantitative methods. My research examines how governments navigate political conflict across three domains:
 
 1. **Domestic contention in the digital age:** how governments regulate the internet and repress political activity online. My dissertation examined the conditions and consequences of institutionalizing repressive internet controls through law.
-2. **International influence and soft power:** how authoritarian governments seek to shape perceptions and political narratives beyond their borders through digital media and entertainment. As part of the NPC project, I study authoritarian influence in the global video games industry through ownership structures, game content, and audience responses.
+2. **International influence and soft power:** how authoritarian governments seek to shape perceptions and political narratives beyond their borders through digital media and entertainment. As part of the NPC project, I study authoritarian influence in the global video games industry.
 3. **Political violence and civil conflict:** how external actors and reputational concerns shape violence in civil conflict. I am particularly interested in the measurement and integration of event data on political contention.
 
 
