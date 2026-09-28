@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <embed
-  src="{{ site.baseurl }}/files/Academic-CV-7.pdf"
+  src="{{ site.baseurl }}/files/Schumann_CV_0926.pdf"
   type="application/pdf"
   width="100%"
   height="600px"
