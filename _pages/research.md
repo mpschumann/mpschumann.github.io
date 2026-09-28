@@ -29,9 +29,11 @@ author_profile: true
   }
 </style>
 
-I am a comparative political scientist who works primarily with quantitative methods. My research is roughly organized around two themes:
-1. Cyber security in autocratic states, at the intersection of authoritarian politics and international cyber security. My ongoing dissertation investigates the legal repression of digital rights in Africa.
-2. The dynamics of violent and nonviolent conflict, within the broader field of conflict studies.
+I am a comparative political scientist who primarily works with quantitative methods. My research examines how governments navigate political conflict across three domains:
+
+1. **Domestic contention in the digital age:** how governments regulate the internet and repress political activity online. My dissertation examined the conditions and consequences of institutionalizing repressive internet controls through law.
+2. **International influence and soft power:** how authoritarian governments seek to shape perceptions and political narratives beyond their borders through digital media and entertainment. As part of the NPC project, I study authoritarian influence in the global video games industry through ownership structures, game content, and audience responses.
+3. **Political violence and civil conflict:** how external actors and reputational concerns shape violence in civil conflict. I am particularly interested in the measurement and integration of event data on political contention.
 
 
 ## Peer-Reviewed Articles
@@ -39,7 +41,7 @@ I am a comparative political scientist who works primarily with quantitative met
 <div class="publication-entry">
   <div class="info">
     Bara, C., &amp; Schumann, M. P. (2026). Ceasefires and civilian targeting in civil war. <em>Journal of Peace Research</em>. Advance online publication,
-    <a href="https://academic.oup.com/jpr/advance-article/doi/10.1093/jopres/xjag068/8780235" target="_blank">Article</a><br>
+    <a href="https://academic.oup.com/jpr/advance-article/doi/10.1093/jopres/xjag068/8780235" target="_blank">DOI</a><br>
   </div>
 
   <div class="thumb">
@@ -146,7 +148,7 @@ I am a comparative political scientist who works primarily with quantitative met
 
 <div class="publication-entry">
   <div class="info">
-    Schwarz F. and Maurice P. Schumann. Control or Commerce? Information Technology Diffusion &amp; the Changing Costs of Internet Shutdowns (manuscript in preparation). 
+    Schwarz F. and Maurice P. Schumann. Control or Commerce? The Increasing Dilemma of Digital Censorship (manuscript in preparation). 
     <ul>
       <li>
         Awarded the best paper award at the 
@@ -160,15 +162,10 @@ I am a comparative political scientist who works primarily with quantitative met
 
 <div class="publication-entry">
   <div class="info">
-    Maurice P. Schumann. In the Name of Cyber Security: Internet Regulation and Journalist Repression in Africa (manuscript in preparation).
+    Maurice P. Schumann. Repercussions of Internet Regulation for Information Control (manuscript in preparation).
   </div>
 </div>
 
-<div class="publication-entry">
-  <div class="info">
-    Bara C. and Maurice P. Schumann. Into the Spotlight? Ceasefires and Civilian Targeting in Civil War (under review).
-  </div>
-</div>
 
 <div class="publication-entry">
   <div class="info">
