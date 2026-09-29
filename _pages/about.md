@@ -10,7 +10,7 @@ redirect_from:
 
 Hello there, I am a postdoctoral researcher at the [Hertie School](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/schumann). My research examines how governments navigate political conflict across digital and offline environments, from domestic contestation and civil war to international struggles over narratives and influence.
 
-My postdoctoral research is part of the project *Narrative, Power, and Control (NPC): The Authoritarian Playbook in the Global Video Games Industry*, where we investigate how authoritarian ownership changes games and how consumers perceive and respond to this influence. The project is part of the Cluster of Excellence “Contestations of the Liberal Script” (SCRIPTS) and is funded by the DFG.
+My postdoctoral research is part of the project *Narrative, Power, and Control (NPC): The Authoritarian Playbook in the Global Video Games Industry*, where we investigate how authoritarian ownership changes games and how consumers perceive and respond to this influence. The project is part of the Cluster of Excellence [Contestations of the Liberal Script (SCRIPTS)](https://www.scripts-berlin.eu) and is funded by the DFG.
 
 In my dissertation, I studied how governments build durable systems of internet control by embedding restrictive instruments in law. This institutionalization allows governments to adapt control tools to changing conditions and deploy them more routinely.
 
